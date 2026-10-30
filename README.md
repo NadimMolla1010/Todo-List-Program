@@ -14,8 +14,8 @@ C# | .NET | Console Application
 ## Run
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/NadimMolla1010/Todo-List-Program.git
+cd Todo-List-Program
 dotnet run
 ```
 
